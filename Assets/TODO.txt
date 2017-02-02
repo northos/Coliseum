@@ -1,0 +1,8 @@
+TODO (COLISEUM):
+
+* Hand setup
+* Game state display
+* Card highlighting
+* Equipment
+* Card implementations
+* Visuals
